@@ -1,0 +1,6 @@
+app:
+  openapi:
+    dev-url: http://dev.to
+    int-url: http://int.to
+    prod-url: http://prod.to
+    tokenUrl: https://sso-int.mercedes-benz.com/as/token.oauth2
